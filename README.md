@@ -30,7 +30,7 @@ Source codes and other resources can be found at [data-science-courses](https://
 
 #### Certificates
 
-* [Practical Machine Learning](https://drive.google.com/drive/folders/1QqYO5Db7CGICBQFvbr8RJxnPphDxyUeh) (Nov - Dec 2017) (DataWorkshop - Vladimir Alekseichenko)
+* [Practical Machine Learning](https://drive.google.com/file/d/1xtu0mcP19sPp-Tpu8k0aVWetpBxhVisF/view?usp=sharing) (Nov - Dec 2017) (DataWorkshop - Vladimir Alekseichenko)
 
 #### Podcasts
 
