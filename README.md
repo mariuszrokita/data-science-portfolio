@@ -19,7 +19,7 @@ This is the repository perceived as a data science portfolio. It contains inform
 
 List of online courses and workshops I enrolled to in order to acquire knowledge and build my understanding on the subjects related to data science and machine learning.
 
-* Data Workshop course - [Machine Learning for Software Engineers](http://dataworkshop.eu/)
+* Data Workshop course - [Practical Machine Learning](http://dataworkshop.eu/).
 * Microsoft Virtual Academy course - [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-us/training-courses/data-science-and-machine-learning-essentials-14100)
 * Pluralsight course - [Understanding Machine Learning with Python](https://www.pluralsight.com/courses/python-understanding-machine-learning)
 * Udacity course - [Machine Learning for Trading](https://eu.udacity.com/course/machine-learning-for-trading--ud501)
@@ -27,6 +27,10 @@ List of online courses and workshops I enrolled to in order to acquire knowledge
 * Udemy course - [Python for Financial Analysis and Algorithmic Trading](https://www.udemy.com/python-for-finance-and-trading-algorithms/)
 
 Source codes and other resources can be found at [data-science-courses](https://github.com/mariuszrokita/data-science-courses) repository.
+
+#### Certificates
+
+* [Practical Machine Learning](https://drive.google.com/drive/folders/1QqYO5Db7CGICBQFvbr8RJxnPphDxyUeh) (Nov - Dec 2017) (DataWorkshop - Vladimir Alekseichenko)
 
 #### Podcasts
 
@@ -41,5 +45,5 @@ I love listening to podcasts and those are the ones I am subscribing:
 If you liked what you've seen, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to reach me out:
 
 * Email: mariusz.rokita@gmail.com
-* LinkedIn: https://www.linkedin.com/in/mariuszrokita/
+* [LinkedIn](https://www.linkedin.com/in/mariuszrokita/)
 * Twitter: @MariuszRokita
