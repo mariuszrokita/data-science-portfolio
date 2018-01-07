@@ -1,10 +1,12 @@
-# Data Science Portfolio
+# Data Science / Machine Learning Portfolio
 
 This is the repository perceived as a data science portfolio. It contains information about my data science/machine learning/artificial intelligence projects and education courses.
 
 ## Contents
 
 ### Projects
+
+(Under construction)
 
 ### Education
 
@@ -13,9 +15,9 @@ This is the repository perceived as a data science portfolio. It contains inform
 * M.Sc. in Computer Science, [Wroclaw University of Technology](http://pwr.edu.pl/)
   * Final Thesis: *Applied machine learning algorithms in medicine*.
 
-#### Courses
+#### Online Courses
 
-List of online workshops I enrolled to in order to acquire knowledge and build my understanding on the subjects related to data science and machine learning.
+List of online courses and workshops I enrolled to in order to acquire knowledge and build my understanding on the subjects related to data science and machine learning.
 
 * Data Workshop course - [Machine Learning for Software Engineers](http://dataworkshop.eu/)
 * Microsoft Virtual Academy course - [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-us/training-courses/data-science-and-machine-learning-essentials-14100)
