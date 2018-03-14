@@ -6,7 +6,13 @@ This is the repository perceived as a data science portfolio. It contains inform
 
 ### Projects
 
-(Under construction)
+1. [Recruit Restaurant Visitor Forecasting](https://github.com/mariuszrokita/kaggle-recruit-restaurant-visitor-forecasting) - data analysis, visualization and building model to predict how many future visitors a restaurant will receive.
+
+    Highlights: *time series forecasting, Kaggle dataset, python, matplotlib, scikit-learn, Jupyter Notebook*.
+
+1. [Money Machine](https://github.com/mariuszrokita/money-machine) - the application used for trend analysis for currencies (EUR, USD, GBP, CHF) and also some stocks from the Warsaw Stock Exchange. The data used in the analysis is downloaded from multiple *unofficial* sources. The forecasting/prediction model will be developed soon.
+
+    Highlights: *currency and stock trend analysis, python, matplotlib, Jupyter Notebook*.
 
 ### Education
 
