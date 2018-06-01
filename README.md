@@ -14,6 +14,10 @@ This is the repository perceived as a data science portfolio. It contains inform
 
     Highlights: *currency and stock trend analysis, python, matplotlib, Jupyter Notebook*.
 
+1. [Business Travels Analysis](https://bitbucket.org/mrokita/) - data analysis and visualization for dataset with real records about business trips in XYZ company.
+
+    Highlights: *real data, python, matplotlib, scikit-learn, Jupyter Notebook*.
+
 ### Education
 
 #### Formal Education
