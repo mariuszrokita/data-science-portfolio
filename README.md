@@ -29,7 +29,8 @@ This is the repository perceived as a data science portfolio. It contains inform
 
 List of online courses and workshops I enrolled to in order to acquire knowledge and build my understanding on the subjects related to data science and machine learning.
 
-* Data Workshop course - [Practical Machine Learning](http://dataworkshop.eu/).
+* Data Workshop course - [Practical Machine Learning](http://dataworkshop.eu/)
+* edX course - [Essential Mathematics for Artificial Intelligence](https://courses.edx.org/courses/course-v1:Microsoft+DAT256x+1T2018a/course/)
 * Microsoft Virtual Academy course - [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-us/training-courses/data-science-and-machine-learning-essentials-14100)
 * Pluralsight course - [Understanding Machine Learning with Python](https://www.pluralsight.com/courses/python-understanding-machine-learning)
 * Udacity course - [Machine Learning for Trading](https://eu.udacity.com/course/machine-learning-for-trading--ud501)
