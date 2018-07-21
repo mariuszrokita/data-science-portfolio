@@ -25,11 +25,16 @@ This is the repository perceived as a data science portfolio. It contains inform
 * M.Sc. in Computer Science, [Wroclaw University of Technology](http://pwr.edu.pl/)
   * Final Thesis: *Applied machine learning algorithms in medicine*.
 
+* Postgraduate Education, [Wroclaw University of Economics](http://www.ue.wroc.pl/university/)
+  * Course: *Data Science - advanced data analysis*
+  * Duration: 2018.10 - 2019.06
+
 #### Online Courses
 
 List of online courses and workshops I enrolled to in order to acquire knowledge and build my understanding on the subjects related to data science and machine learning.
 
-* Data Workshop course - [Practical Machine Learning](http://dataworkshop.eu/)
+* Udacity Nanodegree Program - [Become a Data Scientist - Term 1](https://eu.udacity.com/course/data-scientist-nanodegree--nd025) (since 2018.07)
+* Data Workshop course - [Practical Machine Learning](http://dataworkshop.eu/) - (2017.10 - 2017.12)
 * edX course - [Essential Mathematics for Artificial Intelligence](https://courses.edx.org/courses/course-v1:Microsoft+DAT256x+1T2018a/course/)
 * Microsoft Virtual Academy course - [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-us/training-courses/data-science-and-machine-learning-essentials-14100)
 * Pluralsight course - [Understanding Machine Learning with Python](https://www.pluralsight.com/courses/python-understanding-machine-learning)
