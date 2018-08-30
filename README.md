@@ -56,6 +56,16 @@ I love listening to podcasts and those are the ones I am subscribing:
 * [Data Science po polsku](https://itunes.apple.com/pl/podcast/data-science-po-polsku/id1212135978?mt=2)
 * [Data Skeptic](https://itunes.apple.com/pl/podcast/data-skeptic/id890348705?mt=2)
 
+#### Books
+
+This is a selection of books for data science and related disciplines that I often use as a good reference.
+
+|     |                                                          Title                                                                         | Code |
+|:---:|:---------------------------------------------------------------------------------------------------------------------------------------|:----:|
+| [ ] | [Data Science for Business - F.Provost, T. Fawcett](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323) |  -   |
+| [ ] | [The Signal and the Noise - N. Silver](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087)                    |  -   |
+| [ ] | [Data Science i uczenie maszynowe](https://ksiegarnia.pwn.pl/Data-Science-i-uczenie-maszynowe,706763082,p.html)                        |  -   |
+
 ## Contact
 
 If you liked what you've seen, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to reach me out:
