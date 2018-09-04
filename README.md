@@ -60,12 +60,13 @@ I love listening to podcasts and those are the ones I am subscribing:
 
 This is a selection of books for data science and related disciplines that I often use as a good reference.
 
-|          |                                                          Title                                                                         |                        Code                           |
-|:--------:|:---------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|
-| &#x2610; | [Data Science for Business - F.Provost, T. Fawcett](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323) |                          -                            |
-| &#x2610; | [The Signal and the Noise - N. Silver](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087)                    |                          -                            |
-| &#x2610; | [Data Science i uczenie maszynowe](https://ksiegarnia.pwn.pl/Data-Science-i-uczenie-maszynowe,706763082,p.html)                        |                          -                            |
-| &#x2610; | [Think Stats, 2nd Edition- Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/)                                              |  [GitHub](https://github.com/AllenDowney/ThinkStats2) |
+|          |                                                          Title                                                                         |                       Code                                                  |
+|:--------:|:---------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------:|
+| &#x2610; | [Data Science for Business - F.Provost, T. Fawcett](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323) |                         -                                                   |
+| &#x2610; | [The Signal and the Noise - N. Silver](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087)                    |                         -                                                   |
+| &#x2610; | [Data Science i uczenie maszynowe](https://ksiegarnia.pwn.pl/Data-Science-i-uczenie-maszynowe,706763082,p.html)                        |                         -                                                   |
+| &#x2610; | [Think Stats, 2nd Edition- Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/)                                              | [GitHub](https://github.com/AllenDowney/ThinkStats2)                        |
+[ &#x2610; | [Practical Time Series Analysis](https://www.amazon.com/Practical-Time-Analysis-Processing-Visualization/dp/1788290224)                | [GitHub](https://github.com/PacktPublishing/Practical-Time-Series-Analysis) |
 
 ## Contact
 
