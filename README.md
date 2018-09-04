@@ -66,8 +66,8 @@ This is a selection of books for data science and related disciplines that I oft
 | &#x2610; | [The Signal and the Noise - N. Silver](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087)                    |                         -                                                   |
 | &#x2610; | [Data Science i uczenie maszynowe](https://ksiegarnia.pwn.pl/Data-Science-i-uczenie-maszynowe,706763082,p.html)                        |                         -                                                   |
 | &#x2610; | [Think Stats, 2nd Edition- Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/)                                              | [GitHub](https://github.com/AllenDowney/ThinkStats2)                        |
-[ &#x2610; | [Practical Time Series Analysis](https://www.amazon.com/Practical-Time-Analysis-Processing-Visualization/dp/1788290224)                | [GitHub](https://github.com/PacktPublishing/Practical-Time-Series-Analysis) |
-[ &#x2610; | [Python Data Science Handbook - J. VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)                                   | [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)              |
+| &#x2610; | [Practical Time Series Analysis](https://www.amazon.com/Practical-Time-Analysis-Processing-Visualization/dp/1788290224)                | [GitHub](https://github.com/PacktPublishing/Practical-Time-Series-Analysis) |
+| &#x2610; | [Python Data Science Handbook - J. VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)                                   | [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)              |
 
 ## Contact
 
